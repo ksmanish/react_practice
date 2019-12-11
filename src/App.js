@@ -8,7 +8,7 @@ class App extends Component{
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and saved to reload converted to class changes!!!.
+          Edit <code>src/App.js</code> and saved to reload converted to class changes made by me.
         </p>
         <a
           className="App-link"
